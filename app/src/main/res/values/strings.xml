@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeadsUpGame</string>
+
+
+    <string name="mainActivity_title">HeadsUp!</string>
+    <string name="mainActivity_startButton">Start the game</string>
+</resources>
